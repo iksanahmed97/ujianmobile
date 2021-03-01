@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "505094558446",
+    "firebase_url": "https://reactnative-dd442-default-rtdb.firebaseio.com",
+    "project_id": "reactnative-dd442",
+    "storage_bucket": "reactnative-dd442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505094558446:android:e77d76d5faa2ddab4659ff",
+        "android_client_info": {
+          "package_name": "com.tugas6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505094558446-tv1910m59dijldau5h8sm6behsrq0rbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnw-bGUBw1S-Ysa0jqoeX36Jt-_3HPjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505094558446-tv1910m59dijldau5h8sm6behsrq0rbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505094558446:android:eb81eb218e4415384659ff",
+        "android_client_info": {
+          "package_name": "com.ujianmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505094558446-tv1910m59dijldau5h8sm6behsrq0rbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnw-bGUBw1S-Ysa0jqoeX36Jt-_3HPjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505094558446-tv1910m59dijldau5h8sm6behsrq0rbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
